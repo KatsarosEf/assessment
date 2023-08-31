@@ -1,4 +1,4 @@
- # Smarter DiagnX Assessment 
+ # Assessment 
 
 The following project leverages patient knee MRI slices to classify knee malfunctions.
 
